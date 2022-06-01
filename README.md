@@ -1,9 +1,20 @@
 ### Olá! Eu sou a Luana Beatriz Alvares
 
 <div align="center">
+<h5> Atualmente estou no 2º ano do curso de Engenharia de Software, da Universidade Unicesumar de Maringá-PR, gosto de explorar novas tecnologias e resolver problemas diários, além de gostar muito de projetos envolvendo front-end.
+
+<h3>MY GITHUB STATS
+  
+##
+  
+<div align="center">
   <a href="https://github.com/LuanaAlvares">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuanaAlvares&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>       <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaAlvares&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+  
+##
+ 
+<h3>TECHNOLOGY STACK / SOCIAL NETWORKS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
