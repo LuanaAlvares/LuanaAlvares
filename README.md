@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Luana Beatriz Alvares 👋
 
 <div align="center">
-<h5> Atualmente estou no 2º ano do curso de Engenharia de Software, da Universidade Unicesumar de Maringá-PR, gosto de explorar novas tecnologias e resolver problemas diários, além de gostar muito de projetos envolvendo front-end. 🎓
+<h4> Atualmente estou no 2º ano do curso de Engenharia de Software, da Universidade Unicesumar de Maringá-PR, gosto de explorar novas tecnologias e resolver problemas diários, além de gostar muito de projetos envolvendo front-end. 🎓
 
 <h3>MY GITHUB STATS
   
