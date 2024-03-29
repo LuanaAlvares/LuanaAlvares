@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Luana Beatriz Alvares 👋
 
 <div align="center">
-<h4> Tenho 20 anos e atualmente estou no 4º ano do curso de Engenharia de Software, da Universidade Unicesumar de Maringá-PR, gosto de explorar novas tecnologias e resolver problemas diários, além de gostar muito de projetos envolvendo front-end. 🎓
+<h4> Tenho 20 anos e atualmente estou no 7º semestre do curso de Engenharia de Software, da Universidade Unicesumar de Maringá-PR, gosto de explorar novas tecnologias e resolver problemas diários, além de gostar muito de projetos envolvendo front-end. 🎓
 
 <h3>MY GITHUB STATS
   
